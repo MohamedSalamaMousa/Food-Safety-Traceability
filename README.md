@@ -1,4 +1,5 @@
 # 🔍 Food Safety Traceability System
+Mohamed Salama
 
 A comprehensive Laravel-based food safety traceability system designed for restaurants to track food products from supplier to customer, with full lifecycle monitoring and incident investigation capabilities.
 
